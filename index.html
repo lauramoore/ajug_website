@@ -6,6 +6,6 @@ layout: default
 ---
 {% for sections in site.data.sections %}
   {% if sections.show %}
-    {% include {{ sections.name }}.html %}
+    {% include {{ sections.link }}.html %}
   {% endif %}
 {% endfor %}

@@ -1,3 +1,4 @@
 when the team page slides over
  - do you want to prevent scrolling?
  - do you want it on an entirely separate page?
+ - how to go back if you want to slide over the about section and prevent further scrolling?

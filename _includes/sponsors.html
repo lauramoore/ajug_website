@@ -4,70 +4,10 @@
     </div>
   </div>
   <div class="row justify-content-center">
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
-    <div class="col">
-      <img class="sponsor-image img-fluid" src="images/java-4.svg">
-    </div>
+    {% assign sponsor_files = site.static_files | where: "image", true | where: "sponsor", true %}
+    {% for sponsorImage in sponsor_files %}
+      <div class="col">
+        <img class="sponsor-image img-fluid" src="{{ sponsorImage.path }}">
+      </div>
+    {% endfor %}
   </div>

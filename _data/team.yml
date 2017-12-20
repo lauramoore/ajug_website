@@ -1,0 +1,29 @@
+- name: Pratik Patel
+  id: president
+  role: President
+  info: Pratik Patel is the CTO of Atlanta based TripLingo. He wrote the first book on 'enterprise Java' in 1996, "Java Database Programming with JDBC." He has also spoken at various conferences and participates in several local tech groups and startup groups.
+
+- name: Burk Hufnagel
+  id: vicePresident
+  role: Vice President
+  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+- name: Vincent Mayers
+  id: treasurer
+  role: Treasurer
+  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+- name: Glenn Renfro
+  id: secretary
+  role: Secretary
+  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+- name: Bruce Petro
+  id: teamExtra1
+  role:
+  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+
+- name: Vincent Stoessel
+  id: teamExtra2
+  role:
+  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.

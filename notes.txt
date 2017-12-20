@@ -1,0 +1,3 @@
+when the team page slides over
+ - do you want to prevent scrolling?
+ - do you want it on an entirely separate page?

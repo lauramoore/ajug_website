@@ -4,13 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
-
-  {% include info.html %}
-
-  {% include team.html %}
-
-  {% include join.html %}
-
-  {% include events.html %}
-
-  {% include resources.html %}
+{% for sections in site.data.sections %}
+  {% if sections.show %}
+    {% include {{ sections.name }}.html %}
+  {% endif %}
+{% endfor %}

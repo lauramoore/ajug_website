@@ -16,5 +16,17 @@
       </div>
     </div>
   </div>
-  {% include sponsors.html %}
+  <div class="row">
+    <div class="col-12">
+      <h1 class="title">Sponsors</h1>
+    </div>
+  </div>
+  <div class="row justify-content-center">
+    {% assign sponsor_files = site.static_files | where: "image", true | where: "sponsor", true %}
+    {% for sponsorImage in sponsor_files %}
+      <div class="col">
+        <img class="sponsor-image img-fluid" src="{{ sponsorImage.path }}">
+      </div>
+    {% endfor %}
+  </div>
 </section>

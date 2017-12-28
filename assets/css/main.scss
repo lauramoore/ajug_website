@@ -8,25 +8,6 @@ $darker-red:#CD2E22;
 
 body {
   background-color: #E9F5F9;
-  font-family: droid-serif, serif;
-  font-style: normal;
-  font-weight: 400;
-}
-
-body.noScroll {
-  overflow: hidden;
-}
-
-.hidden {
-  display: none !important;
-}
-
-.not-hidden {
-  display: flex !important;
-}
-
-.lighter-red-font {
-  color:$lighter-red;
 }
 
 .navbar {
@@ -44,8 +25,9 @@ body.noScroll {
 }
 
 .section {
-  padding-top:75px;
   height:100vh;
+  min-height: 640px;
+  padding-top: 4rem;
   padding-bottom: 5rem !important;
   .h1 {
     font-size: 3.25rem;
@@ -56,15 +38,22 @@ body.noScroll {
 }
 
 .sponsor-image {
-  max-width: 70px;
-  padding: 10px;
+  height: 60px;
+  width: 60px;
+}
+
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+
+  > .col,
+  > [class*="col-"] {
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 @media (max-width: 575px) {
-  // .sponsor-image {
-  //   width: 90px;
-  //   padding: 15px;
-  // }
   .section {
     h1 {
       font-size: 2rem;
@@ -87,6 +76,13 @@ body.noScroll {
 @media (max-width: 991px) {
   .section {
     height: 100%;
+    
+  }
+  
+  #contact {
+    .micro-phone-img{
+      
+    }
   }
 }
 
@@ -111,6 +107,10 @@ body.noScroll {
 
 .text-color {
   color:$text-color !important;
+}
+
+.text-color-red {
+  color:$lighter-red !important;
 }
 
 .no-border {

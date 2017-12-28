@@ -6,4 +6,18 @@ layout: default
 ---
 <section id="team-page" class="d-flex flex-column section animated">
   <h1>THE TEAM</h1>
+  <div id="teamDescription" class="team-description-acc" data-children=".item">
+    {% for team in site.data.team %}
+      <div class="item">
+        <a data-toggle="collapse" data-parent="#teamDescription" data-target="#{{ team.id }}" aria-expanded="false" aria-controls="{{ team.id }}">
+          {{ team.name }} - {{ team.role }} <span id="{{ team.id }}Btn" class="arrow-button float-right oi oi-caret-right"></span>
+        </a>
+        <div id="{{ team.id }}" class="team-info collapse" role="tabpanel">
+          <p class="mb-3">
+            {{ team.info }}
+          </p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </section>

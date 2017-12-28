@@ -4,7 +4,7 @@
   inHeader: true
 
 - name: team-page
-  show: true
+  show: false
   link: team-page
   inHeader: false
 
@@ -22,3 +22,8 @@
   show: false
   link: resources
   inHeader: false
+
+- name: Contact
+  show: true
+  link: contact
+  inHeader: true

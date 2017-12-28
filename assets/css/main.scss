@@ -2,12 +2,18 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+@font-face {
+    font-family: DroidSerif;
+    src: url('assets/fonts/droid-serif/DroidSerif-Regular.ttf');
+}
+
 $text-color:#353A3A;
 $lighter-red:#F04A1D;
 $darker-red:#CD2E22;
 
 body {
   background-color: #E9F5F9;
+  font-family: DroidSerif, serif;
 }
 
 .navbar {

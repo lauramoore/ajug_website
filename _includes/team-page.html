@@ -1,8 +1,12 @@
 <div class="modal animated slideInLeft team-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
-    <div class="modal-content container-fluid">
-      <section class="d-flex flex-column hidden animated">
-        <h2 class="my-4">The Team</h2>
+    <div class="modal-content px-5">
+      <section class="d-flex flex-column hidden">
+        <h2 class="my-4">The Team
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </h2>
         <div id="teamDescription" class="team-description-acc" data-children=".item">
           {% for team in site.data.team %}
             <div class="item">

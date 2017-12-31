@@ -19,9 +19,15 @@ body {
 
 .team-modal {
   .modal-dialog {
+    margin: 0;
+    max-width: 100%;
+
     //max-width: 100%;
     .modal-content {
+      border-radius: 0;
+      border: 0;
       background-color: $background-blue;
+      height: 100vh;
     }
   }
 }

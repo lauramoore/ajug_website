@@ -1,7 +1,7 @@
 - name: About
   show: true
   link: about
-  inHeader: true
+  inHeader: false
 
 - name: team-page
   show: false

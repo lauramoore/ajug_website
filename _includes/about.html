@@ -1,6 +1,6 @@
-<section id="about" class="d-flex flex-column justify-content-around section">
+<section class="d-flex flex-column justify-content-start align-items-start section mt-4 ml-lg-5">
   <div class="row mb-5">
-    <div class="col-md-12 col-lg-10">
+    <div class="col-md-12 col-lg-7">
       <div class="info-section d-flex flex-column">
         <h1 class="text-color title">We are here to exchange information, brainstorm and identify new technoloy on the JVM and
           educate the business community to the advantages of Java.</h1>
@@ -16,17 +16,19 @@
       </div>
     </div>
   </div>
-  <div class="row">
-    <div class="col-12">
-      <h1 class="title">Sponsors</h1>
-    </div>
-  </div>
-  <div class="row justify-content-center">
-    {% assign sponsor_files = site.static_files | where: "image", true | where: "sponsor", true %}
-    {% for sponsorImage in sponsor_files %}
-      <div class="col">
-        <img class="sponsor-image img-fluid" src="{{ sponsorImage.path }}">
+  <div>
+    <div class="row">
+      <div class="col-12">
+        <h1 class="title">Sponsors</h1>
       </div>
-    {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      {% assign sponsor_files = site.static_files | where: "image", true | where: "sponsor", true %}
+      {% for sponsorImage in sponsor_files %}
+        <div class="col">
+          <img class="sponsor-image img-fluid" src="{{ sponsorImage.path }}">
+        </div>
+      {% endfor %}
+    </div>
   </div>
 </section>

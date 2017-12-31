@@ -1,17 +1,25 @@
-<section id="team-page" class="d-flex flex-column hidden section animated">
-  <h1>THE TEAM</h1>
-  <div id="teamDescription" class="team-description-acc" data-children=".item">
-    {% for team in site.data.team %}
-      <div class="item">
-        <a data-toggle="collapse" data-parent="#teamDescription" data-target="#{{ team.id }}" aria-expanded="false" aria-controls="{{ team.id }}">
-          {{ team.name }} - {{ team.role }} <span id="{{ team.id }}Btn" class="arrow-button float-right oi oi-caret-right"></span>
-        </a>
-        <div id="{{ team.id }}" class="team-info collapse" role="tabpanel">
-          <p class="mb-3">
-            {{ team.info }}
-          </p>
+<div class="modal animated slideInLeft team-modal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content container-fluid">
+      <section class="d-flex flex-column hidden animated">
+        <h2 class="my-4">The Team</h2>
+        <div id="teamDescription" class="team-description-acc" data-children=".item">
+          {% for team in site.data.team %}
+            <div class="item">
+              <a data-toggle="collapse" data-parent="#teamDescription" data-target="#{{ team.id }}" aria-expanded="false" aria-controls="{{ team.id }}">
+                <div class="team-description-header my-4 text-color">
+                  <span class="h5">{{ team.name }} - {{ team.role }}</span> <span id="{{ team.id }}Btn" class="arrow-button text-color-red float-right oi oi-caret-right"></span>
+                </div>
+              </a>
+              <div id="{{ team.id }}" class="team-info collapse" role="tabpanel">
+                <p class="h5 mx-4 ">
+                  {{ team.info }}
+                </p>
+              </div>
+            </div>
+          {% endfor %}
         </div>
-      </div>
-    {% endfor %}
+      </section>
+    </div>
   </div>
-</section>
+</div>

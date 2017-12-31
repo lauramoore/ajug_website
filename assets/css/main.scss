@@ -7,13 +7,23 @@
     src: url('assets/fonts/droid-serif/DroidSerif-Regular.ttf');
 }
 
+$background-blue:#E9F5F9;
 $text-color:#353A3A;
 $lighter-red:#F04A1D;
 $darker-red:#CD2E22;
 
 body {
-  background-color: #E9F5F9;
+  background-color: $background-blue;
   font-family: DroidSerif, serif;
+}
+
+.team-modal {
+  .modal-dialog {
+    //max-width: 100%;
+    .modal-content {
+      background-color: $background-blue;
+    }
+  }
 }
 
 .navbar {
@@ -69,6 +79,9 @@ body {
   width: 100%;
 }
 
+.team-description-header {
+  border-bottom: solid;
+}
 @media (max-width: 575px) {
   .section {
     h1 {
@@ -119,7 +132,26 @@ body {
   .section {
     //height: 100%;
   }
+  .team-modal {
+    .modal-dialog {
+      //max-width: 75%;
+      .modal-content {
+      }
+    }
+  }
 }
+
+@media (min-width: 992px) {
+  .team-modal {
+    .modal-dialog {
+      //max-width: 75%;
+      .modal-content {
+      }
+    }
+  }
+}
+
+
 
 // Large devices (desktops, less than 1200px)
 @media (max-width: 1199px) {

@@ -87,6 +87,10 @@ body {
 
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 767px) {
+  .ajug-microphone-img{
+    width: 100%;
+    height: 200px;
+  }
 }
 
 // Medium devices (tablets, less than 992px)

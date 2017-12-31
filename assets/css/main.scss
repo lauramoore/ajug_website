@@ -98,6 +98,20 @@ body {
 
 // Medium devices (tablets, less than 992px)
 @media (max-width: 991px) {
+  .navbar-dropdown-background {
+    background-color: $lighter-red;
+    margin-left: -16px;
+    margin-right: -16px;
+    margin-bottom: -8px;
+    margin-top: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 8px;
+    margin-top: 10px;
+    .text-color {
+      color: white !important;
+    }
+  }
   .remove-md-gutters{
     margin-left: -15px;
     margin-right: -15px;

@@ -9,6 +9,10 @@
         $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad-side-v7.svg');
       }
 
+      if(screen.width < 768){
+        $('.parallax-window').removeAttr('data-image-src').removeAttr('data-parallax').removeClass('parallax-window');
+      }
+
       $( ".meet-team-btn" ).click(function( event ) {
         event.preventDefault();
         $('.team-modal').modal('toggle')

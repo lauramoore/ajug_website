@@ -11,8 +11,17 @@
 
       if(screen.width < 768){
         $('.parallax-window').removeAttr('data-image-src').removeAttr('data-parallax').removeClass('parallax-window');
+        $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png')
       }
 
+      $( window ).resize(function() {
+        if($( window ).width() < 768){
+          console.log('hello')
+          $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png');
+        } else {
+          $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner.png');
+        }
+      });
       $( ".meet-team-btn" ).click(function( event ) {
         event.preventDefault();
         $('.team-modal').modal('toggle')

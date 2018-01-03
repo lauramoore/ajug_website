@@ -1,6 +1,13 @@
 
 (function($) {
     $(document).ready(function(){
+      if(screen.height === 1366 && screen.width === 1024){
+        $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad-v19.svg');
+      }
+
+      if(screen.width === 1366 && screen.height === 1024){
+        $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad-side-v7.svg');
+      }
       $( ".meet-team-btn" ).click(function( event ) {
         event.preventDefault();
         $('.team-modal').modal('toggle')

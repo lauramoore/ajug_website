@@ -3,11 +3,6 @@
   link: about
   inHeader: false
 
-- name: team-page
-  show: false
-  link: team-page
-  inHeader: false
-
 - name: Join
   show: true
   link: join

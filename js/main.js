@@ -12,7 +12,7 @@
       }
 
       $( window ).resize(function() {
-        if($( window ).width() < 768){
+        if($( window ).width() <= 768){
           $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png');
         } else {
           $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner.png');

@@ -3,13 +3,12 @@
     $(document).ready(function(){
 
       if((screen.width === 768 && screen.height === 1024) || (screen.width === 1024 && screen.height === 768)
-          || (screen.height === 1366 && screen.width === 1024) || (screen.height === 1024 && screen.width === 1366)){
+        || (screen.height === 1366 && screen.width === 1024) || (screen.height === 1024 && screen.width === 1366)){
         $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad-v18.svg');
       }
 
-      if(screen.width < 768){
-        $('.parallax-window').removeAttr('data-image-src').removeAttr('data-parallax').removeClass('parallax-window');
-        $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png')
+      if(screen.width <= 768){
+        $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png');
       }
 
       $( window ).resize(function() {

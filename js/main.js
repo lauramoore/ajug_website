@@ -4,7 +4,7 @@
 
       if((screen.width === 768 && screen.height === 1024) || (screen.width === 1024 && screen.height === 768)
         || (screen.height === 1366 && screen.width === 1024) || (screen.height === 1024 && screen.width === 1366)){
-        $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad-v18.svg');
+        $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad-1.svg');
       }
 
       if(screen.width <= 768){

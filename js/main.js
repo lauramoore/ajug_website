@@ -3,18 +3,21 @@
     $(document).ready(function(){
 
       if((screen.width === 1024 && screen.height === 768)|| (screen.height === 1366 && screen.width === 1024)){
-        $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad-1.svg');
+        $('.parallax-window').attr('data-image-src','/assets/img/background/background-a-2.svg');
       }
       // 
       // if((screen.height === 1024 && screen.width === 1366)||(screen.width === 768 && screen.height === 1024) ){
       //   $('.parallax-window').attr('data-image-src','/assets/img/background/a-ipad.svg');
       // }
-
+      
+      console.log(screen.width);
+      console.log(screen.height)
+      
       if(screen.width <= 768){
         $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png');
       }
   
-      if($( window ).width() <= 1199){
+      if($( window ).width() <= 900){
         $('.parallax-window').removeAttr('data-image-src').removeAttr('data-parallax').removeClass('parallax-window');
       }
       

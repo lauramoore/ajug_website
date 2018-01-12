@@ -19,14 +19,18 @@
       }
       
       $( window ).resize(function() {
-        if($( window ).width() <= 768){
-          //$('.parallax-window').removeAttr('data-image-src').removeAttr('data-parallax').removeClass('parallax-window');
+        if($( window ).width() < 768){
           $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png');
         } else {
           $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner.png');
         }
         
       });
+      
+      $(".nav-link").click(function(event){
+        $('#navbarSupportedContent').collapse('toggle');
+      });
+      
       $( ".meet-team-btn" ).click(function( event ) {
         event.preventDefault();
         $('.team-modal').modal('toggle')

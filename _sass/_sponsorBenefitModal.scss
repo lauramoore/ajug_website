@@ -9,3 +9,13 @@
     }
   }
 }
+
+@media (max-width: 767px) {
+  .sponsor-benefit-modal {
+    .modal-dialog {
+      margin:0;
+      .modal-content {
+      }
+    }
+  }
+}

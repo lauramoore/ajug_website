@@ -35,6 +35,11 @@
         event.preventDefault();
         $('.team-modal').modal('toggle')
       });
+      
+      $( ".sponsor-benefit-btn" ).click(function( event ) {
+        event.preventDefault();
+        $('.sponsor-benefit-modal').modal('toggle')
+      });
 
       $('.team-info').on('hide.bs.collapse', function () {
         $('#'+this.id+'Btn.arrow-button').removeClass('oi-caret-bottom');

@@ -1,29 +1,29 @@
 - name: Pratik Patel
   id: president
   role: President
-  info: Pratik Patel is the CTO of Atlanta based TripLingo. He wrote the first book on 'enterprise Java' in 1996, "Java Database Programming with JDBC." He has also spoken at various conferences and participates in several local tech groups and startup groups.
+  info: Pratik Patel is the CTO of Atlanta based TripLingo. He wrote the first book on ‘enterprise Java’ in 1996, “Java Database Programming with JDBC.” He has also spoken at various conferences and participates in several local tech groups and startup groups. He’s in the startup world now and hacks iOS, Android, HTML5, CSS3, JavaScript, Rails, and ….. well everything except Perl. Pratik’s specialty is in large-scale applications for mission-critical and mobile applications use. He has designed and built applications in the retail, health care, financial services, and telecoms sectors. Pratik holds a master’s in Biomedical Engineering from UNC, has worked in places such as New York, London, and Hong Kong, and currently lives in Atlanta, GA.
 
 - name: Burk Hufnagel
   id: vicePresident
   role: Vice President
-  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  info: Burk Hufnagel has been creating positive User Experiences since 1978 and currently works as an Application Architect for Daugherty Business Solutions. Burk spends much of his time designing and crafting software, and has made a habit of creating practical solutions for difficult problems.<br><br>Burk has presented at JavaOne three times and was awarded Rock Star status for his talk on UX Anti-Patterns titled “No More Loser Experiences.” Other achievements include contributing to the books “97 Things Every Programmer Should Know” and “97 Things Every Software Architect Should Know,” and presenting at AJUG meetings, DevNexus, and the IT Architect Regional Conference in Atlanta, GA.
 
 - name: Vincent Mayers
   id: treasurer
   role: Treasurer
-  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  info: Expat Brit, Artist, athlete, traveler, technology community junkie, and experienced sales leader. Vincent has been a board member of the Atlanta Java Users Group since 2008 and is a VP with Look-Listen, an Atlanta-based Digital Agency. With over 20 years technology services experience, Vincent has led cross-functional teams and has strong program and project management abilities. He has also led sales training, web branding, and marketing efforts and has a deep understanding of technology.<br><br>Vincent is an Oracle Java Champion though he has a Degree in 3D Design from the University of the West Midlands, Wolverhampton, United Kingdom and; in another life was a full-time athlete competing at World Championship level in whitewater kayaking.
 
 - name: Glenn Renfro
   id: secretary
   role: Secretary
-  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  info: As a Pivotal engineer, Glenn Renfro is a core committer for Spring Cloud Task, Spring Batch and Spring Cloud Data Flow. He has 13 years experience in designing, building and delivering enterprise level applications in Java and 20 years total of software development experience.
 
 - name: Bruce Petro
   id: teamExtra1
   role:
-  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  info: Bruce has over 19 years experience in numerous types of Software Engineering. Years of success as owner of a VAR business, years as a direct employee, and several years senior consulting experience, balanced with years managing development for multiple products gives him a healthy, strong and mature understanding of today’s business development process. Over the years large Smalltalk Client/Server projects morphed into becoming OO databases and caches, and middle layer headless servers for standard JEE sites providing a single point of access to a complex spectrum of databases, mainframes and service calls for Java web applications as well as home to business logic that was kept out of the presentation layer. This migration led to full Java application and web projects utilizing various technologies over the years. While consistently working with all layers, Bruce enjoys agile projects and providing the ideal designs to match user work flows and needs perfectly. Lately, the majority of his efforts have moved into yet another new world, working on challenging Big Data projects.
 
 - name: Vincent Stoessel
   id: teamExtra2
   role:
-  info: Donec at ipsum dignissim, rutrum turpis scelerisque, tristique lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus nec dui turpis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  info: Vincent Stoessel began his tech career in the early days of the dot-com era. While working for an ISP as an IP Support technician he also taught himself to code with the LAMP stack to build websites. In 2000 he made the transition to being a full time developer at IDEV in Washington DC. His first assignment was to join the team building PHP web apps for Al Gore’s US Presidential 2000 Campaign website. Shortly after, he made the transition to full time Java backend development and has been working in that space ever since. He has successfully lead great development teams to build enterprise software for his employers. He’s developed for various business sectors such as Legal, Political, Health Care, Travel and currently, Fintech. Vincent’s technical passion is defined by the idea that information technology can be an enabling force for good in the world. During his off hours, he finds peace with his family, photography and cycling. He is currently employed by the Backbase USA and lives in South Metro Atlanta.

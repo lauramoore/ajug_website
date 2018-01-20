@@ -6,6 +6,7 @@
 @import 'teamModal';
 @import 'sponsorBenefitModal';
 @import 'navbar';
+@import 'footer';
 
 @font-face {
     font-family: DroidSerif;
@@ -86,6 +87,10 @@ body {
   color:$text-color !important;
 }
 
+.text-color-white {
+  color:white !important;
+}
+
 .text-color-red {
   color:$lighter-red !important;
 }
@@ -98,9 +103,12 @@ body {
   border-radius: 0 !important;
 }
 
+.white-bg {
+  background-color: white;
+}
+
 .light-red-bg {
   background-color: $lighter-red;
-  color: white !important;
 }
 
 .dark-red-bg {

@@ -41,7 +41,7 @@ body {
 }
 
 .section {
-  height:100vh;
+  min-height:100vh;
   padding-top: 56px;
   //min-height: 650px;
   //padding-top: 4rem;
@@ -138,8 +138,8 @@ body {
 // Small devices (landscape phones, less than 768px)
 @media (max-width: 768px) {
   .section {
-    height: 100%;
-    margin-bottom: 8rem;
+    //height: 100%;
+    //margin-bottom: 8rem;
   }
   .section:last-child{
     margin-bottom: 15px;

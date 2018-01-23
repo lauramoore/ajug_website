@@ -14,8 +14,8 @@
         $('.ajug_becomemember_banner').attr('src', '/assets/img/ajug_becomemember_banner_rect.png');
       }
   
-      if($( window ).width() < 768){
-        $('.parallax-window').removeAttr('data-image-src').removeAttr('data-parallax').removeClass('parallax-window');
+      if($( window ).width() <= 600){
+        $('.parallax-window').attr('data-image-src','/assets/img/background/background-a-2.svg');
       }
       
       $( window ).resize(function() {

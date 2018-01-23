@@ -5,6 +5,7 @@
     margin-bottom: 15px;
     border-radius: 0;
     border: 0;
+    width: 100%;
     .card-img-top{
       border-radius: 0;
     }
@@ -38,11 +39,15 @@
 //   }
 // }
 // 
-// @media (min-width: 700px){
-//   .contactCards {
-//     -ms-flex-flow: row wrap;
-//     flex-flow: row wrap;
-//     margin-right: -15px;
-//     margin-left: -15px;
-//   }  
-// }
+@media (min-width: 768px){
+  .contactCards {
+    width: 75%;
+    align-self: center;
+  }  
+}
+
+@media (min-width: 992px){
+  .contactCards {
+    margin-left: -3rem;  
+  }
+}

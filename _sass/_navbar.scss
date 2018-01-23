@@ -2,6 +2,14 @@
 
 .navbar {
   background-color: white;
+  
+ .navbar-toggler {
+    border: none !important;
+    
+  }
+  button.navbar-toggler:focus{
+    outline: 5px auto $lighter-red!important;
+  }
 }
 
 .navbar-shadow {

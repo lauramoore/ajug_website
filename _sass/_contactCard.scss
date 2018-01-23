@@ -12,3 +12,23 @@
     }
   }
 }
+@media (min-width: 576px){
+  .card-deck {
+    -ms-flex-flow: column wrap;
+    flex-flow: column wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    .card {
+      margin-bottom: 15px;
+    }
+  }
+}
+
+@media (min-width: 700px){
+  .contactCards {
+    -ms-flex-flow: row wrap;
+    flex-flow: row wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }  
+}

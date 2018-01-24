@@ -1,0 +1,44 @@
+@import "color";
+
+.eventCards {
+  &.card {
+    border-radius: 0;
+    
+    .list-group {
+      .list-group-item {
+        border-bottom-right-radius:0 !important;
+        border-bottom-left-radius:0 !important;
+        border-bottom: solid $text-color 1px;
+        margin: 0 20px;
+        padding: 15px 0;
+        &:last-child {
+          border-bottom: 0;
+        }
+        .eventDescription {
+          padding: 10px 10px;
+        }
+        .ajug-button {
+          width: 250%;
+          padding: 10px 15px;
+          font-size: 18px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  .eventCards {
+    .list-group {
+      .list-group-item {
+        .eventDescription {
+          padding: 10px 20px;
+        }
+        .ajug-button {
+          width: 40% !important;
+          margin: 0 10px;
+        }
+      }
+    }
+  }
+}

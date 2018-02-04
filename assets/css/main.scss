@@ -9,6 +9,7 @@
 @import 'footer';
 @import 'contactCard';
 @import "event";
+@import "sponsor";
 
 @font-face {
     font-family: DroidSerif;
@@ -53,11 +54,6 @@ body {
   .div-wrapper{
     width: 60%;
   }
-}
-
-.sponsor-image {
-  height: 60px;
-  width: 60px;
 }
 
 .ajug-microphone-img{

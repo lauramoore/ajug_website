@@ -27,7 +27,7 @@
       {% assign sponsor_files = site.static_files | where: "image", true | where: "sponsor", true %}
       {% for sponsorImage in sponsor_files %}
         <div class="col">
-          <img class="sponsor-image img-fluid" src="{{ sponsorImage.path }}">
+          <img class="sponsor-image img-fluid editable" src="{{ sponsorImage.path }}">
         </div>
       {% endfor %}
     </div>

@@ -20,6 +20,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atlantajug
 github_username:  ???
 uploads_dir: "assets/images/sponsors"
+collections:
+  sponsors:
+    output: false
 _options:
   sponsor_image_path:
     width: 60

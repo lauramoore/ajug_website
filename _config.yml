@@ -20,6 +20,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atlantajug
 github_username:  ???
 uploads_dir: "assets/images/sponsors"
+_options:
+  sponsor_image_path:
+    width: 60
+    height: 60
+    resize_style: "cover"
+    mime_type: "image/svg+xml"
+    expandable: false
 defaults:
   - scope:
       path: "assets/img"

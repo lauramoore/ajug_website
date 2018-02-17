@@ -25,7 +25,7 @@ _options:
     width: 60
     height: 60
     resize_style: "cover"
-    mime_type: "image/svg+xml"
+    mime_type: "image/jpeg"
     expandable: false
 defaults:
   - scope:

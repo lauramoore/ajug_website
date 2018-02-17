@@ -24,10 +24,9 @@
       </div>
     </div>
     <div class="row justify-content-center">
-      {% assign sponsor_files = site.static_files | where: "image", true | where: "sponsor", true %}
-      {% for sponsorImage in sponsor_files %}
+      {% for row in site.data.sponsors %}
         <div class="col">
-          <img class="sponsor-image img-fluid editable" src="{{ sponsorImage.path }}">
+          <a href="{{row.site_link}}"><img class="sponsor-image img-fluid editable" alt="{{ row.sponsor }}" src="{{ row.sponsor_image_path }}"></a>
         </div>
       {% endfor %}
     </div>

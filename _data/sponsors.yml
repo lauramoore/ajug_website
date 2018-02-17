@@ -1,4 +1,4 @@
 -
 java:
-  sponsor_image_path: assets/img/sponsors/java-4.svg
-  site_link: https://www.java.org
+  sponsor_image_path: 'assets/img/sponsors/java-4.svg'
+  site_link: 'https://www.java.org'

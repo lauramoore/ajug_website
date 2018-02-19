@@ -1,4 +1,5 @@
 sponsor,sponsor_image_path,site_link
-java,/assests/img/sponsors/java.svg,https://java.org
-test,/assets/img/sponsors/avatar.jpeg,http://www.devnexus.org
+RedHat,/RH.png,https://www.redhat.com/en
+Thoughtworks,/assets/img/sponsors/Thoughtworks.png,https://www.thoughtworks.com/
 Manhattan Associates,/assets/manh.png,http://www.manh.com/
+RedHAt Openshirt,/assets/RH Open.png,https://www.openshift.com/

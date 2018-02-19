@@ -14,11 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: AJUG | Atlanta Java User Group
-email: your-email@domain.com
+email: info@ajug.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: atlantajug
+github_username:  ???
+uploads_dir: "assets/images/sponsors"
+_options:
+  sponsor_image_path:
+    width: 60
+    height: 60
+    resize_style: "cover"
+    mime_type: "image/jpeg"
+    expandable: false
 defaults:
   - scope:
       path: "assets/img"

@@ -4,22 +4,8 @@
       <div class="d-flex flex-column">
         <h1 class="title mb-4 display-4">Events</h1>
         <div class="eventCards card shadow">
-          <ul class="list-group list-group-flush">
-            {% for post in site.posts limit:2 %}
-              <div class="list-group-item d-flex flex-column flex-lg-row justify-content-between">
-                <div class="eventDescription flex-column align-items-start">
-                  <div class="h6">
-                    {{ post.date | date: '%B %d, %Y' }}
-                  </div>
-                  <div class="d-flex justify-content-between">
-                    <div class="h3">{{ post.title }}</div>
-                  </div>
-                </div>
-                <div class="d-flex flex-column justify-content-center">
-                  <a class="btn btn-secondary ajug-button">Reserve</a>
-                </div>
-              </div>
-            {% endfor %}
+          <ul id="meetup-events" class="list-group list-group-flush">
+
           </ul>
         </div>
         <!-- <div>
@@ -44,7 +30,7 @@
     <div class="col-md-12 col-lg-8">
       <div class="d-flex flex-column">
         <h1 class="title display-4">Social Updates</h1>
-        <a class="h5">Follow us on Twitter at @atlantaajug</a>
+        <a class="h5">Follow us on Twitter at @atlantajug</a>
       </div>
     </div>
   </div> -->

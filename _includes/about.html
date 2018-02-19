@@ -6,7 +6,7 @@
           educate the business community to the advantages of Java.</h1>
         <div class="d-flex flex-column mt-5">
           <div class="div-wrapper">
-            <a class="btn btn-secondary btn-lg btn-block ajug-button h4">Join the Community</a>
+            <a class="btn btn-secondary btn-lg btn-block ajug-button h4" href="#join">Join the Community</a>
           </div>
           <div class="div-wrapper d-flex justify-content-center mt-md-3 p-2 ">
             <a class="meet-team-btn text-color h4" href=""><i><u>Meet the team</u></i></a>
@@ -23,11 +23,10 @@
         <h1 class="title display-4">Sponsors</h1>
       </div>
     </div>
-    <div class="sponsor-list row justify-content-center">
-      {% assign sponsor_files = site.static_files | where: "image", true | where: "sponsor", true %}
-      {% for sponsorImage in sponsor_files %}
-        <div class="col sponsor-image-wrapper">
-          <img class="sponsor-image" src="{{ sponsorImage.path }}">
+    <div class="row justify-content-center">
+      {% for row in site.data.sponsors %}
+        <div class="col">
+          <a href="{{row.site_link}}"><img class="sponsor-image img-fluid editable" alt="{{ row.sponsor }}" src="{{ row.sponsor_image_path }}"></a>
         </div>
       {% endfor %}
     </div>

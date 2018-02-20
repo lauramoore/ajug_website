@@ -4,9 +4,13 @@ $(document).ready(function() {
     var templateUrl  = "/assets/event-cards.html";
     var templateFetch = $.get(templateUrl);
     var eventDataFetch = $.Deferred();
+    function setHeader(xhr){
+      xhr.setRequestHeader('Access-Control-Allow-Origin', '*');
+    }
     $.ajax({
     url: meetupEventUrl,
     jsonp: "JSON_CALLBACK",
+    beforeSend: setHeader,
     dataType: "jsonp",
     // Work with the response
     success: function( response ) {

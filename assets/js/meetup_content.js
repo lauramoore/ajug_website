@@ -9,7 +9,7 @@ $(document).ready(function() {
     }
     $.ajax({
     url: meetupEventUrl,
-    jsonp: "JSON_CALLBACK",
+    jsonp: "json_callback",
     beforeSend: setHeader,
     dataType: "jsonp",
     // Work with the response

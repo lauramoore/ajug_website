@@ -24,11 +24,11 @@
       </div>
     </div>
     <div class="row justify-content-center">
+      <div class="col">
       {% for row in site.data.sponsors %}
-        <div class="col">
-          <a href="{{row.site_link}}"><img class="sponsor-image img-fluid editable" alt="{{ row.sponsor }}" src="{{ row.sponsor_image_path }}"></a>
-        </div>
+        <a href="{{row.site_link}}"><img class="sponsor-image img-fluid" alt="{{ row.sponsor }}" src="{{ row.sponsor_image_path }}"></a>
       {% endfor %}
+      </div>
     </div>
   </div>
 </section>

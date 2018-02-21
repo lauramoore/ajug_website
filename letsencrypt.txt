@@ -1,5 +1,5 @@
 ---
 layout: null
-permalink: .well-known/acme-challenge/C0ow33AlKQl9sTIr82tw4xFVKwDItpdQEbOhqXH4ZVE
+permalink: /.well-known/acme-challenge/C0ow33AlKQl9sTIr82tw4xFVKwDItpdQEbOhqXH4ZVE
 ---
 C0ow33AlKQl9sTIr82tw4xFVKwDItpdQEbOhqXH4ZVE.3rnxf8PKFa7h8ZnyYk-y0xFyQFVEWOjANpXdJoxOX18

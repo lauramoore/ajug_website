@@ -3,7 +3,7 @@
 
 ### Credit and Thanks
 #### [html5up](https://html5up.net/license)
-For the jump start on out HTML5
+For the jump start on our HTML5
 #### [Jekyll](https://jekyllrb.com/)
 For site generation platform
 #### [Bootstrap](https://getbootstrap.com/)

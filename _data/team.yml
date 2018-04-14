@@ -32,7 +32,13 @@
   id: themillenial
   role:
   info: Summers is a Sr. Java developer for Red Hat. He works primarily on the AeroGear-Android libraries. He holds a BS in Computer Science and a MS in Human Computer Interaction from Georgia Tech. He maintains a blog at blog.sagaoftherealms.net.
+
 - name: Laura Moore
   id: lk_moore
   role:
   info: Laura has been designing, coding, testing, and troubleshooting Java for enterprise applications since 2001.  Currently she's employed by UTC - Climate, Controls & Security and adding experience with IoT to her resume.  In her spare time, she maintains this website.
+
+- name: Roy Clarkson
+  id: royclarkson
+  role:
+  info: Roy is a member of the Spring team at Pivotal Software, Inc. and currently developing Spring Cloud Services for Pivotal Cloud Foundry.  Roy leads the Spring Mobile and Spring for Android projects. His prior experience includes years of iOS, Android, and web application development. In his spare time, Roy organizes the Atlanta Spring User Group, and the Atlanta Cloud Foundry Meetup.

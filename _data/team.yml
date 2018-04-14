@@ -27,3 +27,12 @@
   id: teamExtra2
   role:
   info: Vincent Stoessel began his tech career in the early days of the dot-com era. While working for an ISP as an IP Support technician he also taught himself to code with the LAMP stack to build websites. In 2000 he made the transition to being a full time developer at IDEV in Washington DC. His first assignment was to join the team building PHP web apps for Al Gore’s US Presidential 2000 Campaign website. Shortly after, he made the transition to full time Java backend development and has been working in that space ever since. He has successfully lead great development teams to build enterprise software for his employers. He’s developed for various business sectors such as Legal, Political, Health Care, Travel and currently, Fintech. Vincent’s technical passion is defined by the idea that information technology can be an enabling force for good in the world. During his off hours, he finds peace with his family, photography and cycling. He is currently employed by the Backbase USA and lives in South Metro Atlanta.
+
+- name: Summers Pittman
+  id: themillenial
+  role:
+  info: Summers is a Sr. Java developer for Red Hat. He works primarily on the AeroGear-Android libraries. He holds a BS in Computer Science and a MS in Human Computer Interaction from Georgia Tech. He maintains a blog at blog.sagaoftherealms.net.
+- name: Laura Moore
+  id: lk_moore
+  role:
+  info: Laura has been designing, coding, testing, and troubleshooting Java for enterprise applications since 2001.  Currently she's employed by UTC - Climate, Controls & Security and adding experience with IoT to her resume.  In her spare time, she maintains this website.

@@ -8,10 +8,8 @@
           <div class="div-wrapper">
             <a class="btn btn-secondary btn-lg btn-block ajug-button h4" href="#join">Join the Community</a>
           </div>
-          <div class="div-wrapper d-flex justify-content-center mt-md-3 p-2 ">
-            <a class="meet-team-btn text-color h4" href=""><i><u>Meet the team</u></i></a>
-            <!-- <button type="button" class="meet-team-btn text-color h5" data-toggle="modal" data-target=".team-modal"><i><u>Meet the team</u></i></button> -->
-            <!-- <a class="meet-team-btn text-color h5" href="{{ "/team" | prepend: site.baseurl }}"><i><u>Meet the team</u></i></a> -->
+          <div class="div-wrapper">
+            <a class="btn btn-secondary btn-lg btn-block meet-team-btn h4" href="">Meet the team</a>
           </div>
         </div>
       </div>
@@ -23,12 +21,10 @@
         <h1 class="title display-4">Sponsors</h1>
       </div>
     </div>
-    <div class="row justify-content-center">
-      <div class="col">
+    <div>
       {% for row in site.data.sponsors %}
         <a href="{{row.site_link}}"><img class="sponsor-image img-fluid" alt="{{ row.sponsor }}" src="{{ row.sponsor_image_path }}"></a>
       {% endfor %}
-      </div>
     </div>
   </div>
 </section>

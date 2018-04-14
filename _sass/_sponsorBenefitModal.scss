@@ -9,7 +9,7 @@
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: $grid-breakpoints-md) {
   .sponsor-benefit-modal {
     .modal-dialog {
       margin:0;

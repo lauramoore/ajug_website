@@ -8,24 +8,10 @@
 
           </ul>
         </div>
-        <!-- <div>
-          <div class="list-group">
-            {% for post in site.posts limit:2 %}
-              <div class="list-group-item flex-column align-items-start">
-                <div class="h6">
-                  {{ post.date | date: '%B %d, %Y' }}
-                </div>
-                <div class="d-flex justify-content-between">
-                  <div class="h4">{{ post.title }}</div>
-                </div>
-                <a class="btn btn-secondary ajug-button">Reserve</a>
-              </div>
-            {% endfor %}
-          </div>
-        </div> -->
       </div>
     </div>
   </div>
+  <!--
   <div class="row">
     <div class="col-md-12 col-lg-8">
       <div class="d-flex flex-column">
@@ -34,4 +20,27 @@
       </div>
     </div>
   </div>
+-->
+</section>
+<section id="socialnmedia" class="d-flex flex-column justify-content-start section ml-lg-5">
+    <h1 class="my-3 display-4">Social and Media</h1>
+    <div class="contactCards ">
+      <div class="card shadow">
+        <div class="card-body">
+          <h1>Announcements</h1>
+          <div class="d-flex flex-row justify-content-center">
+            <a class="btn btn-secondary btn-lg btn-block ajug-button" href="{{site.data.cta.twitter}}">Follow @atlantajug on Twitter</a>
+            <p>
+          </div>
+        </div>
+      </div>
+      <div class="card shadow">
+        <div class="card-body">
+          <h1>Recorded Presentations</h1>
+          <div class="d-flex flex-row justify-content-center">
+            <a class="btn btn-secondary btn-lg btn-block ajug-button" href="https://www.recallact.com/ajug">Watch Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
 </section>

@@ -1,6 +1,5 @@
 sponsor,sponsor_image_path,site_link
 RedHat,/RH.png,https://www.redhat.com/en
-Thoughtworks,/assets/img/sponsors/Thoughtworks.png,https://www.thoughtworks.com/
 Manhattan Associates,/assets/manh.png,http://www.manh.com/
 RedHAt Openshirt,/assets/RH Open.png,https://www.openshift.com/
 Lightbend,/assets/LBnd.001.png,https://www.lightbend.com/
@@ -13,7 +12,6 @@ JFrog,/assets/JFrog.png,https://jfrog.com/
 MongoDB,/assets/Mongo.png,https://www.mongodb.com/
 Oracle,/assets/oracle.png,https://developer.oracle.com/
 Pivotal,/assets/pivotal.jpeg,https://pivotal.io/
-Smartsheet,/assets/smartsheet.png,https://www.smartsheet.com/
 State Farm,/assets/statef.001.jpeg,https://www.statefarm.com/
 TSYS,/assets/tsys.png,https://www.tsys.com/careers.html
 VMWare,/assets/vmware.001.jpeg,https://www.vmware.com/

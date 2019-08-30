@@ -5,7 +5,9 @@
         <h1 class="title mb-4 display-4">Events</h1>
         <div class="eventCards card shadow">
           <ul id="meetup-events" class="list-group list-group-flush">
-
+            {% for e in site.data.meetups %}
+	      {% include event_card.html post=e %}
+	    {% endfor %}
           </ul>
         </div>
       </div>

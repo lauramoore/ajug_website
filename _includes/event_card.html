@@ -1,13 +1,13 @@
 <div class="list-group-item d-flex flex-column flex-lg-row justify-content-between">
   <div class="eventDescription flex-column align-items-start">
     <div class="h6">
-      {{ post.date | date: '%B %d, %Y' }}
+      {{ include.post.date }}
     </div>
     <div class="d-flex justify-content-between">
-      <div class="h3">{{ post.title }}</div>
+      <div class="h3">{{ include.post.title }}</div>
     </div>
   </div>
   <div class="d-flex flex-column justify-content-center">
-    <a href={{post.meetup}} class="btn btn-secondary ajug-button">Details</a>
+    <a href="{{ include.post.meetup_link }}" class="btn btn-secondary ajug-button">Details</a>
   </div>
 </div>

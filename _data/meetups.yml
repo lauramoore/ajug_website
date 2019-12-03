@@ -1,12 +1,9 @@
-- date: 2019-09-17 19:00:00
-  title: Four Keynotes - Why programming platforms are changing so rapidly
-  meetup_link: 'https://www.meetup.com/atlantajug/events/261080601/'
-- date: 2019-10-18 19:00:00
-  title: 'Quarkus - Supersonic, Subatomic Java'
-  meetup_link: 'https://www.meetup.com/atlantajug/events/262324778/'
-- date: 2019-11-19 19:00:00
-  title: Designing and Coding Blockchain Smart Contracts using Java
-  meetup_link: 'https://www.meetup.com/atlantajug/events/264418727/'
+- date: 2019-12-07 10:0:00
+  title: Hands-on Serverless Java with Quarkus
+  meetup_link: "https://www.meetup.com/atlantajug/events/265688514/"
 - date: 2019-12-17 19:00:00
   title: Town Hall with the Wizard Dr. Venkat Subramaniam
   meetup_link: 'https://www.meetup.com/atlantajug/events/260880954/'
+- date: 2020-01-21 19:00:00
+  title: Reactive Spring
+  meetup_link: "https://www.meetup.com/atlantajug/events/266037678/"

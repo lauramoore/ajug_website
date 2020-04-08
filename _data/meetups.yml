@@ -1,6 +1,11 @@
 - date: 2020-01-21 18:45:00
   title: Reactive Spring
-  meetup_link: "https://www.meetup.com/atlantajug/events/266037678/"
+  meetup_link: 'https://www.meetup.com/atlantajug/events/266037678/'
 - date: 2020-05-19 18:45:00
   title: DevOps for developers (or maybe against them?!)
-  meetup_link: "https://www.meetup.com/atlantajug/events/266949021/"
+  meetup_link: 'https://www.meetup.com/atlantajug/events/266949021/'
+- date: 2020-04-21 18:45:00
+  title: >-
+    Online meeting - State of Java: The Past, Present, & Future of Java
+    Development
+  meetup_link: 'https://www.meetup.com/atlantajug/events/269485810/'

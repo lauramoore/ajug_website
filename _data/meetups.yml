@@ -1,3 +1,6 @@
+- date: 2020-03-17 18:45:00
+  title: Online meeting - Want to Succeed with TDD? Stop Writing Tests
+  meetup_link: 'https://www.meetup.com/atlantajug/events/269235008/'
 - date: 2020-04-21 18:45:00
   title: >-
     Online meeting - State of Java: The Past, Present, & Future of Java
@@ -9,6 +12,6 @@
 - date: 2020-06-16 18:45:00
   title: Reactive Relational Database Connectivity with R2DBC
   meetup_link: 'https://www.meetup.com/atlantajug/events/270222768/?isFirstPublish=true'
-- date: 2020-03-17 18:45:00
-  title: Online meeting - Want to Succeed with TDD? Stop Writing Tests
-  meetup_link: 'https://www.meetup.com/atlantajug/events/269235008/'
+- date: 2020-06-16 18:45:00
+  title: Devnexus
+  meetup_link: 'https://devnexus.com/'

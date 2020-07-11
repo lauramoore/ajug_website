@@ -2,22 +2,18 @@
   show: true
   link: about
   inHeader: true
-
 - name: Join
   show: true
   link: join
   inHeader: true
-
-- name: Events
+- name: 2020 Events
   show: true
   link: events
   inHeader: true
-
 - name: Resources
   show: false
   link: resources
   inHeader: false
-
 - name: Contact
   show: true
   link: contact

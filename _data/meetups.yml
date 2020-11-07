@@ -39,9 +39,12 @@
 - date: 2020-10-20 18:45:00
   title: 'Virtual Event - Java at "Speed", Building a Better JVM'
   meetup_link: 'https://www.meetup.com/atlantajug/events/274085825/'
+  image_url: "https://secure.meetupstatic.com/photos/event/2/8/b/8/highres_493150424.jpeg"
 - date: 2020-12-02 10:00:00
   title: Virtual Event - Half-day Workshop - Microservices Hands-on with MicroProfile
   meetup_link: 'https://www.meetup.com/atlantajug/events/274238523/'
+  image_url: "https://secure.meetupstatic.com/photos/event/4/2/d/0/highres_493277104.jpeg"
 - date: 2020-12-15 18:45:00
   title: Virtual Event - “This Ain’t Your Parents’ Java”
   meetup_link: 'https://www.meetup.com/atlantajug/events/274087131/'
+  image_url: 'https://secure.meetupstatic.com/photos/event/2/d/0/9/highres_493151529.jpeg'

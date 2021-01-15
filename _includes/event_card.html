@@ -6,9 +6,9 @@
     <div class="d-flex justify-content-between">
       <div class="h2">{{ include.post.title }}</div>
     </div>
-  {% unless include.post.image_url == nil %}
+  {% unless include.post.image_path == nil %}
   <div class="d-flex justify-content-between"> 
-     <a href="{{ include.post.meetup_link }}"><img src="{{include.post.image_url}}" alt="{{include.post.title | escape}}"/> </a>
+     <a href="{{ include.post.meetup_link }}"><img src="{{include.post.image_path}}" alt="{{include.post.title | escape}}"/> </a>
   </div>
   {% endunless %}
 </div>

@@ -18,7 +18,7 @@ email: info@ajug.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atlantajug
-github_username:  ???
+github_username:  devnexus
 uploads_dir: "assets/images/sponsors"
 _options:
   sponsor_image_path:

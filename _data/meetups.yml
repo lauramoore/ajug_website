@@ -1,51 +1,12 @@
-- date: 2020-01-21 18:45:00
-  title: Reactive Spring
-  meetup_link: 'https://www.meetup.com/atlantajug/events/266037678/'
-  meetup_path:
-- date: 2020-06-16 18:45:00
-  title: Devnexus
-  meetup_link: 'https://devnexus.com/'
-- date: 2020-03-17 18:45:00
-  title: Online meeting - Want to Succeed with TDD? Stop Writing Tests
-  meetup_link: 'https://www.meetup.com/atlantajug/events/269235008/'
-- date: 2020-04-21 18:45:00
-  title: >-
-    Online meeting - State of Java: The Past, Present, & Future of Java
-    Development
-  meetup_link: 'https://www.meetup.com/atlantajug/events/269485810/'
-- date: 2020-05-19 18:45:00
-  title: Online Meeting - DevOps for developers (or maybe against them?!)
-  meetup_link: 'https://www.meetup.com/atlantajug/events/266949021/'
-- date: 2020-05-20 12:00:00
-  title: 'Virtual event - Oracle says Happy 25th Birthday, Java!'
-  meetup_link: 'https://go.oracle.com/LP=92874'
-- date: 2020-05-23 02:00:00
-  title: Virtual Event - 25 Hours of Java
-  meetup_link: 'https://blog.codefx.org/25-hours-of-java/'
-- date: 2020-06-16 18:45:00
-  title: Virtual Event - Reactive Relational Database Connectivity with R2DBC
-  meetup_link: 'https://www.meetup.com/atlantajug/events/270222768/?isFirstPublish=true'
-- date: 2020-07-21 18:45:00
-  title: Virtual Event - Panel Discussion - Diversity and Inclusion in the workplace
-  meetup_link: 'https://www.meetup.com/atlantajug/events/271505464/'
-- date: 2020-08-18 18:45:00
-  title: Virtual Event - Getting started with Open Source
-  meetup_link: 'https://www.meetup.com/atlantajug/events/272059807/'
-- date: 2020-09-15 18:45:00
-  title: Virtual event - Revisiting Effective Java
-  meetup_link: 'https://www.accelevents.com/e/AjugSept2020#About'
-- date: 2020-10-20 18:45:00
-  title: Virtual Event - Java 15 Update
-  meetup_link: 'https://www.meetup.com/atlantajug/events/273594736/'
-- date: 2020-10-20 18:45:00
-  title: 'Virtual Event - Java at "Speed", Building a Better JVM'
-  meetup_link: 'https://www.meetup.com/atlantajug/events/274085825/'
-  image_url: "https://secure.meetupstatic.com/photos/event/2/8/b/8/highres_493150424.jpeg"
-- date: 2020-12-02 10:00:00
-  title: Virtual Event - Half-day Workshop - Microservices Hands-on with MicroProfile
-  meetup_link: 'https://www.meetup.com/atlantajug/events/274238523/'
-  image_url: "https://secure.meetupstatic.com/photos/event/4/2/d/0/highres_493277104.jpeg"
-- date: 2020-12-15 18:45:00
-  title: Virtual Event - “This Ain’t Your Parents’ Java”
-  meetup_link: 'https://www.meetup.com/atlantajug/events/274087131/'
-  image_url: 'https://secure.meetupstatic.com/photos/event/2/d/0/9/highres_493151529.jpeg'
+- date: 2021-01-19 19:00:00
+  title: Architectural Kata Review
+  meetup_link: 'https://www.meetup.com/atlantajug/events/275488787/'
+  image_path: /Arch kata review-01.png
+- date: 2021-02-17 10:00:00
+  title: Devnexus Online
+  meetup_link: 'https://www.meetup.com/atlantajug/events/274736376/'
+  image_path: /DN2021_new_hero_v1.png
+- date: 2021-03-16 19:00:00
+  title: Self Healing Batch Job!
+  meetup_link: 'https://www.meetup.com/atlantajug/events/274328823/'
+  image_path: /self healing.png

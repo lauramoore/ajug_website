@@ -21,9 +21,9 @@ twitter_username: atlantajug
 github_username:  devnexus
 _options:
   meetup_image_path:
-    uploads_dir: "assets/images/meetups"
+    uploads_dir: "/assets/img/meetups"
   sponsor_image_path:
-    uploads_dir: "assets/images"
+    uploads_dir: "/assets/img/sponsors"
     width: 90
     height: 90
     resize_style: "cover"

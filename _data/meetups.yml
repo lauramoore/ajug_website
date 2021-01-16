@@ -2,17 +2,17 @@
 - date: 2021-01-19 19:00:00
   title: Architectural Kata Review
   meetup_link: 'https://www.meetup.com/atlantajug/events/275488787/'
-  image_path: /Arch kata review-01.png
+  meetup_image_path: /Arch kata review-01.png
 - date: 2021-02-17 10:00:00
   title: Devnexus Online
   meetup_link: 'https://www.meetup.com/atlantajug/events/274736376/'
-  image_path: /DN2021_new_hero_v1.png
+  meetup_image_path: /DN2021_new_hero_v1.png
 - date: 2021-03-16 19:00:00
   title: Self Healing Batch Job!
   meetup_link: 'https://www.meetup.com/atlantajug/events/274328823/'
-  image_path: /self healing.png
+  meetup_image_path: /self healing.png
 - date: 2021-03-16 19:00:00
   title: test test
   meetup_link: 'https://test'
-  image_path: /assets/images/sponsors/img-2217.JPG
+  meetup_image_path: /assets/images/sponsors/img-2217.JPG
 ---

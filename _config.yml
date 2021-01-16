@@ -19,9 +19,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atlantajug
 github_username:  devnexus
-uploads_dir: "assets/images/sponsors"
 _options:
+  meetup_image_path:
+    uploads_dir: "assets/images/meetups"
   sponsor_image_path:
+    uploads_dir: "assets/images/sponsors"
     width: 90
     height: 90
     resize_style: "cover"

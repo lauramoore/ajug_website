@@ -18,10 +18,12 @@ email: info@ajug.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atlantajug
-github_username:  ???
-uploads_dir: "assets/images/sponsors"
+github_username:  devnexus
 _options:
+  meetup_image_path:
+    uploads_dir: "/assets/img/meetups"
   sponsor_image_path:
+    uploads_dir: "/assets/img/sponsors"
     width: 90
     height: 90
     resize_style: "cover"

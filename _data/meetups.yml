@@ -15,4 +15,8 @@
   title: test test
   meetup_link: 'https://test'
   meetup_image_path: /assets/images/sponsors/img-2217.JPG
+- date: 2021-03-16 19:00:00
+  title: test again
+  meetup_link: 'https://todo'
+  meetup_image_path:
 ---

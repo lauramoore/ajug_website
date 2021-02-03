@@ -11,4 +11,8 @@
   title: Self Healing Batch Job!
   meetup_link: 'https://www.meetup.com/atlantajug/events/274328823/'
   meetup_image_path: /assets/img/meetups/self healing.png
+- date: 2021-04-20 19:00:00
+  title: Kubernetes and the Data Gateway Pattern
+  meetup_link: 'https://www.meetup.com/atlantajug/events/276155393/?isFirstPublish=true'
+  meetup_image_path: /uploads/kubernetes-and-the-data-gateway-pattern-1.png
 ---

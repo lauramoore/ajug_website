@@ -1,10 +1,8 @@
 ---
-- date: 2021-12-21 18:45:00
-  title: In person and live streaming - AMA with the Wizard Dr. Venkat Subramaniam
-  meetup_link: https://www.meetup.com/atlantajug/events/282526081
-  meetup_image_path: /assets/img/meetups/venkat.jpeg
 - date: 2022-01-18 19:00:00
-  title: Prod-Like Integration Testing for Distributed Containerized Applications
+  title: >-
+    VIRTUAL - Prod-Like Integration Testing for Distributed Containerized
+    Applications
   meetup_link: https://www.meetup.com/atlantajug/events/282604926
-  meetup_image_path: /assets/img/meetups/ajug-july-2021-1.jpg  
+  meetup_image_path: /assets/img/meetups/ajug-jan-2022-meeting-1.png
 ---

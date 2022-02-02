@@ -5,4 +5,8 @@
     Applications
   meetup_link: https://www.meetup.com/atlantajug/events/282604926
   meetup_image_path: /assets/img/meetups/ajug-jan-2022-meeting-1.png
+- date: 2022-02-15 19:00:00
+  title: VIRTUAL - Reading, Writing and Refactoring
+  meetup_link: https://www.meetup.com/atlantajug/events/283637417/
+  meetup_image_path:
 ---

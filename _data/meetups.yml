@@ -12,5 +12,11 @@
 - date: 2022-04-12 19:00:00
   title: Devnexus Conference
   meetup_link: https://devnexus.com/
-  meetup_image_path:
+  meetup_image_path: /assets/img/meetups/1200x628-fb-1.png
+- date: 2022-06-21 19:00:00
+  title: >-
+    Developer Productivity Engineering – The Next Big Thing in Software
+    Development
+  meetup_link: https://www.meetup.com/atlantajug/events/284962724/
+  meetup_image_path: /assets/img/meetups/ajug-june-2022-1.png
 ---

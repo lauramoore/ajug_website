@@ -1,18 +1,9 @@
 ---
-- date: 2022-01-18 19:00:00
+- date: 2022-05-17 18:45:00
   title: >-
-    VIRTUAL - Prod-Like Integration Testing for Distributed Containerized
-    Applications
-  meetup_link: https://www.meetup.com/atlantajug/events/282604926
-  meetup_image_path: /assets/img/meetups/ajug-jan-2022-meeting-1.png
-- date: 2022-02-15 19:00:00
-  title: VIRTUAL - Reading, Writing and Refactoring
-  meetup_link: https://www.meetup.com/atlantajug/events/283637417/
-  meetup_image_path: /assets/img/meetups/ajug-feb-2022-1.png
-- date: 2022-04-12 09:00:00
-  title: Devnexus Conference
-  meetup_link: https://devnexus.com/
-  meetup_image_path: /assets/img/meetups/1200x628-fb-1.png
+    Concurrency without Migraines: Distributed Compute in Hazelcast
+  meetup_link: https://www.meetup.com/atlantajug/events/285590864/
+  meetup_image_path: /assets/img/meetups/ajug-june-2022-1.png
 - date: 2022-06-21 19:00:00
   title: >-
     Developer Productivity Engineering – The Next Big Thing in Software

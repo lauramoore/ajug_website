@@ -5,4 +5,8 @@
     Development
   meetup_link: https://www.meetup.com/atlantajug/events/284962724/
   meetup_image_path: /assets/img/meetups/ajug-june-2022-1.png
+- date: 2022-07-19 18:45:00
+  title: The Three Laws of Test-Driven Development are Useful but Incomplete
+  meetup_link: https://www.meetup.com/atlantajug/events/287161141/
+  meetup_image_path: /assets/img/meetups/ajug-july-2022-1.png
 ---

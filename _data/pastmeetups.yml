@@ -1,9 +1,7 @@
----
 - date: 2022-08-16 19:00:00
-  title: >-
-    Performance Testing Java Applications
+  title: Performance Testing Java Applications
   meetup_link: https://www.meetup.com/atlantajug/events/287718445/
-  meetup_image_path: /assets/img/meetups/august-16-2022.webp
+  meetup_image_path: /assets/img/meetups/screen-shot-2022-09-08-at-12-26-48-pm.png
 - date: 2022-07-19 18:45:00
   title: The Three Laws of Test-Driven Development are Useful but Incomplete
   meetup_link: https://www.meetup.com/atlantajug/events/287161141/
@@ -15,8 +13,7 @@
   meetup_link: https://www.meetup.com/atlantajug/events/284962724/
   meetup_image_path: /assets/img/meetups/ajug-june-2022-1.png
 - date: 2022-05-17 18:45:00
-  title: >-
-    Concurrency without Migraines: Distributed Compute in Hazelcast
+  title: 'Concurrency without Migraines: Distributed Compute in Hazelcast'
   meetup_link: https://www.meetup.com/atlantajug/events/285590864/
   meetup_image_path: /assets/img/meetups/ajug-may-2022.webp
 - date: 2022-04-12 19:00:00
@@ -26,11 +23,11 @@
 - date: 2022-02-15 19:00:00
   title: VIRTUAL - Reading, Writing and Refactoring
   meetup_link: https://www.meetup.com/atlantajug/events/283637417/
-  meetup_image_path:  
+  meetup_image_path:
 - date: 2022-01-18 19:00:00
   title: Prod-Like Integration Testing for Distributed Containerized Applications
   meetup_link: https://www.meetup.com/atlantajug/events/282526081
-  meetup_image_path: /assets/img/meetups/ajug-july-2021-1.png 
+  meetup_image_path: /assets/img/meetups/ajug-july-2021-1.png
 - date: 2021-12-21 18:45:00
   title: In person and live streaming - AMA with the Wizard Dr. Venkat Subramaniam
   meetup_link: https://www.meetup.com/atlantajug/events/282526081
@@ -38,7 +35,7 @@
 - date: 2021-08-17 19:00:00
   title: Help Your Boss Help You
   meetup_link: https://www.meetup.com/atlantajug/events/279535730/
-  meetup_image_path: /help-your-boss-1.png  
+  meetup_image_path: /help-your-boss-1.png
 - date: 2021-07-20 19:00:00
   title: Automated Mass Refactoring for Java-Based Applications
   meetup_link: https://www.meetup.com/atlantajug/events/278983968/
@@ -67,5 +64,3 @@
   title: Architectural Kata Review
   meetup_link: https://www.meetup.com/atlantajug/events/275488787/
   meetup_image_path: /assets/img/meetups/Arch kata review-01.png
-
----

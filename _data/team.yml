@@ -57,51 +57,6 @@
     Task, Spring Batch and Spring Cloud Data Flow. He has 18 years experience in
     designing, building and delivering enterprise level applications in Java and
     25 years total of software development experience.
-- name: Bruce Petro
-  id: teamExtra1
-  role:
-  info: >-
-    Bruce has over 19 years experience in numerous types of Software
-    Engineering. Years of success as owner of a VAR business, years as a direct
-    employee, and several years senior consulting experience, balanced with
-    years managing development for multiple products gives him a healthy, strong
-    and mature understanding of today’s business development process. Over the
-    years large Smalltalk Client/Server projects morphed into becoming OO
-    databases and caches, and middle layer headless servers for standard JEE
-    sites providing a single point of access to a complex spectrum of databases,
-    mainframes and service calls for Java web applications as well as home to
-    business logic that was kept out of the presentation layer. This migration
-    led to full Java application and web projects utilizing various technologies
-    over the years. While consistently working with all layers, Bruce enjoys
-    agile projects and providing the ideal designs to match user work flows and
-    needs perfectly. Lately, the majority of his efforts have moved into yet
-    another new world, working on challenging Big Data projects.
-- name: Vincent Stoessel
-  id: teamExtra2
-  role:
-  info: >-
-    Vincent Stoessel began his tech career in the early days of the dot-com era.
-    While working for an ISP as an IP Support technician he also taught himself
-    to code with the LAMP stack to build websites. In 2000 he made the
-    transition to being a full time developer at IDEV in Washington DC. His
-    first assignment was to join the team building PHP web apps for Al Gore’s US
-    Presidential 2000 Campaign website. Shortly after, he made the transition to
-    full time Java backend development and has been working in that space ever
-    since. He has successfully lead great development teams to build enterprise
-    software for his employers. He’s developed for various business sectors such
-    as Legal, Political, Health Care, Travel and currently, Fintech. Vincent’s
-    technical passion is defined by the idea that information technology can be
-    an enabling force for good in the world. During his off hours, he finds
-    peace with his family, photography and cycling. He is currently employed by
-    the Backbase USA and lives in South Metro Atlanta.
-- name: Summers Pittman
-  id: themillenial
-  role:
-  info: >-
-    Summers is a Sr. Java developer for Red Hat. He works primarily on the
-    AeroGear-Android libraries. He holds a BS in Computer Science and a MS in
-    Human Computer Interaction from Georgia Tech. He maintains a blog at
-    blog.sagaoftherealms.net.
 - name: Laura Moore
   id: lk_moore
   role:
@@ -120,17 +75,12 @@
     years of iOS, Android, and web application development. In his spare time,
     Roy organizes the Atlanta Spring User Group, and the Atlanta Cloud Foundry
     Meetup.
-- name: Caitlin Mahoney
-  id: Social
+- name: Najae Stephenson
+  id:
   role:
   info: >-
-    Caitlin is a talent acquisition analyst for Slalom Consulting and the newest
-    member of the Atlanta JUG.  Before discovering an interest in the Tech
-    Industry, she studied economics at the University of South Carolina.   
-    While at USC, she led her co-ed business fraternity Delta Sigma Pi as
-    president.  She also founded the DMSB Student Organizations Council to
-    facilitate communication and collaboration among student leaders and the
-    business school's administration.    Caitlin deeply appreciates
-    opportunities to exchange perspectives such as music, art, and travel. 
-    Among other topics, she is interested in all things at the intersection of
-    tech and people (in other words, almost everything).
+    FullStack Software Engineer with 6+yrs of experience. I graduated from
+    Colorado State Global Campus with a Technology Degree. I am a 2 time speaker
+    at Devnexus and an extroverted mother of 4. I am the President of Black
+    Consultants at Daugherty Business Solutions. I am a champion for D&I and
+    effective communication.

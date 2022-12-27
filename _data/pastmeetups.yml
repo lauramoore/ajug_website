@@ -1,3 +1,15 @@
+- date: 2022-12-20 19:00:00
+  title: Exception Handling in Functional and Reactive Programming
+  meetup_link: https://www.meetup.com/atlantajug/events/289755899/
+  meetup_image_path: /assets/img/meetups/ajug-december-2022-1.png
+- date: 2022-11-15 19:00:00
+  title: How Java Apps Litter Beyond the Heap (And What We Can Do About That)
+  meetup_link: https://www.meetup.com/atlantajug/events/289213601/
+  meetup_image_path: /assets/img/meetups/ajug-nov-2022.png
+- date: 2022-10-25 19:00:00
+  title: Demystifying Opensource Development
+  meetup_link: https://www.meetup.com/atlantajug/events/288926682/
+  meetup_image_path: /assets/img/meetups/ajug-oct-2022a-1.png
 - date: 2022-08-16 19:00:00
   title: Performance Testing Java Applications
   meetup_link: https://www.meetup.com/atlantajug/events/287718445/
@@ -68,15 +80,3 @@
   title: 'Lights, Camera, Action: GitHub Actions CI/CD for Java projects'
   meetup_link: https://www.meetup.com/atlantajug/events/288328774/
   meetup_image_path: /assets/img/meetups/ajug-sept-2022-1.png
-- date: 2022-10-25 19:00:00
-  title: Demystifying Opensource Development
-  meetup_link: https://www.meetup.com/atlantajug/events/288926682/
-  meetup_image_path: /assets/img/meetups/ajug-oct-2022a-1.png
-- date: 2022-11-15 19:00:00
-  title: How Java Apps Litter Beyond the Heap (And What We Can Do About That)
-  meetup_link: https://www.meetup.com/atlantajug/events/289213601/
-  meetup_image_path: /assets/img/meetups/ajug-nov-2022.png
-- date: 2022-12-20 19:00:00
-  title: Exception Handling in Functional and Reactive Programming
-  meetup_link: https://www.meetup.com/atlantajug/events/289755899/
-  meetup_image_path: /assets/img/meetups/ajug-december-2022-1.png

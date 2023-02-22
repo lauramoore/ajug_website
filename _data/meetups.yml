@@ -1,8 +1,8 @@
-- date: 2023-04-04 09:00:00
-  title: DEVNEXUS
-  meetup_link: https://www.meetup.com/atlantajug/events/290648806/
-  meetup_image_path: /assets/img/meetups/dn-2023-ajug-1.png
 - date: 2023-03-21 19:00:00
   title: 'Architecture Foundations: Styles, Patterns, and Tradeoffs'
   meetup_link: https://www.meetup.com/atlantajug/events/291793664/
   meetup_image_path: /assets/img/meetups/ajug-march-2023-1.png
+- date: 2023-04-04 09:00:00
+  title: DEVNEXUS
+  meetup_link: https://www.meetup.com/atlantajug/events/290648806/
+  meetup_image_path: /assets/img/meetups/dn-2023-ajug-1.png

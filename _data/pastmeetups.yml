@@ -1,3 +1,11 @@
+- date: 2023-02-21 19:00:00
+  title: 'HotSpot vs OpenJ9: which one to choose to cut cloud bills'
+  meetup_link: https://www.meetup.com/atlantajug/events/290560086/
+  meetup_image_path: /assets/img/meetups/ajug-feb-2023-2.png
+- date: 2023-01-17 19:00:00
+  title: Bootiful Spring Boot 3
+  meetup_link: https://www.meetup.com/atlantajug/events/290659991/
+  meetup_image_path: /assets/img/meetups/jan-2023-ajug-1.png
 - date: 2022-12-20 19:00:00
   title: Exception Handling in Functional and Reactive Programming
   meetup_link: https://www.meetup.com/atlantajug/events/289755899/

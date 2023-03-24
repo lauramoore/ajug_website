@@ -24,8 +24,8 @@ _options:
     uploads_dir: "/assets/img/meetups"
   sponsor_image_path:
     uploads_dir: "/assets/img/sponsors"
-    width: 90
-    height: 90
+    width: 300
+    height: 300
     resize_style: "cover"
     mime_type: "image/jpeg"
     expandable: false

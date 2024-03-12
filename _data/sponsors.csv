@@ -1,4 +1,5 @@
 sponsor,sponsor_image_path,site_link
+CloudBees,/assets/img/sponsors/images-1.jpg,https://cloudbees.com
 CodiumAI,/assets/img/sponsors/codiumai-01.jpg,https://codium.ai
 Datadog,/assets/img/sponsors/DATADOG.jpeg,https://www.datadoghq.com/
 Docker,/assets/img/sponsors/docker-01.jpg,https://www.docker.com/
@@ -11,13 +12,12 @@ Keyfactor,https://res.cloudinary.com/connectjs/image/upload/v1673993882/keyfacto
 LaunchDarkly,https://res.cloudinary.com/connectjs/image/upload/v1675197403/launchdarkly-01_nm57k7.png,https://launchdarkly.com/
 Ledgent,https://res.cloudinary.com/connectjs/image/upload/v1673993882/ledgent-01_npczg1.png,https://www.ledgenttech.com/
 MicroStream,https://res.cloudinary.com/connectjs/image/upload/v1674571562/microsteam-01_esilhz.png,https://microstream.one/
+Oracle,/assets/img/sponsors/oracle-01.jpg,https://oracle.com
 RedHat,/assets/img/sponsors/Red Hat2.001.png,https://developers.redhat.com/
 RingCentral,/assets/img/sponsors/ringcentral.jpg,https://developers.ringcentral.com/
 sonar,https://raw.githubusercontent.com/devnexus/ajug_website/master/assets/img/sponsors/bob.jpg,https://www.sonarsource.com/?utm_source=devnexus&utm_medium=event&utm_campaign=java&utm_content=devnexus_ss
+Sonatype,/assets/img/sponsors/sonatype-01.jpg,https://www.sonatype.com/
 Suse,/assets/img/sponsors/suse-01.png,https://www.suse.com/
 Temporal,/assets/img/sponsors/temporal-01.jpg,https://t.mp/temporalDN
 Vaadin,https://res.cloudinary.com/connectjs/image/upload/v1673993882/vaadin-01_iximd0.png,https://vaadin.com/
 VMware,/assets/img/sponsors/vmware-1-1-1.jpg,https://tanzu.vmware.com/
-Oracle,/assets/img/sponsors/oracle-01.jpg,https://oracle.com
-Sontaype,/assets/img/sponsors/sonatype-01.jpg,https://www.sonatype.com/
-CloudBees,/assets/img/sponsors/images-1.jpg,https://cloudbees.com

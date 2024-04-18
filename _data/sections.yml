@@ -3,7 +3,7 @@
   link: about
   inHeader: true
 - name: Join
-  show: true
+  show: false
   link: join
   inHeader: true
 - name: 2022 Events
